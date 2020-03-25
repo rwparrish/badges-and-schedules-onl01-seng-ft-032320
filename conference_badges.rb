@@ -16,6 +16,7 @@ def assign_rooms(room_assignments)
   end
 end
     
+<<<<<<< HEAD
 def printer(badges_and_room_assignments)
   
   attendees.each { |name| puts "Hello, my name is #{name}."}
@@ -23,4 +24,7 @@ def printer(badges_and_room_assignments)
   room_assignments.each { |name, i| puts "#{name}#{i}"}
   
 end
+=======
+  
+>>>>>>> 1f410a3ebc0003997c2ab8f75c814f81225dd8b7
   
